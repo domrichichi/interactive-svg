@@ -26,9 +26,10 @@ html {
 
 @keyframes sketchy-eyes {
 
-  from { transform: translate(0, 0);}
+  from { transform: translate(0, 0); }
 
-  to { transform: translate(8px, 0);}
+  to { transform: translate(8px, 0); }
+
 }
 
 #right-ear {
@@ -49,16 +50,16 @@ html {
 }
 
 .st1 {
-  fill: #ffaaCa;
+  fill: #ffaaca;
 }
 
 .st2 {
-  fill: #c65B00;
+  fill: #c65b00;
 }
 
 .st3 {
   fill: none;
-  stroke: #000000;
+  stroke: #000;
   stroke-width: 3;
   stroke-linecap: round;
   stroke-linejoin: round;
