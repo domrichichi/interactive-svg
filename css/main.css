@@ -26,9 +26,9 @@ html {
 
 @keyframes sketchy-eyes {
 
-  from {transform: translate(0, 0);}
+  from { transform: translate(0, 0);}
 
-  to {transform: translate(8px, 0);}
+  to { transform: translate(8px, 0);}
 }
 
 #right-ear {
